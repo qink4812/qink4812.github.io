@@ -6,6 +6,7 @@ body{
 
 h1{
 	font-family: "Minion Pro";
+	text-shadow: 0 8px 10px #fff;
 	color: #FFFFFF;
 	text-align: center;
 	padding-top: 20%;
