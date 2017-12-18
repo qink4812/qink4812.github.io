@@ -5,6 +5,8 @@ body{
 }
 
 h1{
+	font-family: "Minion Pro";
+	color: #FFFFFF;
 	text-align: center;
 	padding-top: 20%;
 }
